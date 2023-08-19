@@ -27,5 +27,13 @@ Before you begin, make sure you have the following installed:
 
 1. Clone the repository:
 
-   ```bash
-   git clone <repository-url>
+   ``` git clone https://github.com/Churanta/React-HeatMap.git```
+
+2. Navigate to the project directory:
+    ``` cd heatmap-app```
+
+3. Install dependencies:
+    ``` npm install```
+
+### Running the App
+
