@@ -10,7 +10,7 @@ This project is a React-based web application that displays a heatmap using Goog
   - [Running the App](#running-the-app)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Getting Started
 
