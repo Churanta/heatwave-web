@@ -36,4 +36,20 @@ Before you begin, make sure you have the following installed:
     ``` npm install```
 
 ### Running the App
+Start the development server to run the app:
+``` npm start```
 
+The app should now be accessible at http://localhost:3000.
+
+### Usage
+This app displays a heatmap using the Google Maps API. The heatmap data is loaded dynamically and can be customized by editing the DynamicHeatmap.js file.
+
+
+### Contributing
+Contributions are welcome! To contribute to this project:
+
+1. Fork the repository
+2. Create a new branch
+3. Make your changes
+4. Commit and push your changes to your forked repository
+5. Create a pull request
