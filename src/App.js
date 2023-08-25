@@ -1,11 +1,12 @@
-import React from 'react';
-import DynamicHeatmap from './DynamicHeatmap';
+import React from "react";
+import DynamicHeatmap from "./DynamicHeatmap";
+import { Routes, Route } from "react-router-dom";
 
 function App() {
   return (
-    <div className="App">
-      <DynamicHeatmap />
-    </div>
+    <Routes>
+      <Route path="/" element={<DynamicHeatmap />} />
+    </Routes>
   );
 }
 
